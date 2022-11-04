@@ -1,16 +1,11 @@
 ### Part 1: Programming
 
-Step 1: Activate the virtual environment
-```
-$ source venv/bin/activate
-```
-
-Step 2: Install the requirements
+Step 1: Install the requirements
 ```
 $ pip install -r requirements.txt
 ```
 
-Step 3: Run the program
+Step 2: Run the program
 ```
 $ python main.py
 ```
